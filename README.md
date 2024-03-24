@@ -6,6 +6,8 @@ To install dependencies:
 bun install
 ```
 
+
+carlos wont write here to create the branch
 To run:
 
 ```bash
